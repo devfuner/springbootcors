@@ -1,3 +1,3 @@
 # CORS (Cross Origin Resource Sharing) Test
 
-Main Server
+Sub Server
